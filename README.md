@@ -1,4 +1,4 @@
-# Infrastructura-de-comunicatie-cu-AES\
+# Infrastructura-de-comunicatie-cu-AES
 Implementati o infrastructura de comunicatie ce foloseste criptosistemul AES pentru
 criptarea traficului intre doua noduri A si B cu urmatoarele caracteristici:
 1. Se considera un nod KM (key manager) care detine doua chei pe 128 de biţi K si
