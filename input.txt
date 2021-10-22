@@ -1,0 +1,2 @@
+Implementati o infrastructura de comunicatie ce foloseste criptosistemul AES pentru
+criptarea traficului intre doua noduri A si B cu urmatoarele caracteristici.
